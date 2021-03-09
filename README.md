@@ -1,6 +1,10 @@
 # Facebook WinForms App
 A Facebook App mockup, created with WinForms as a part of Design Patterns course.
 
+## Screenshot
+
+![SpaceInvaders](/FacebookAppScreenshot.JPG?raw=true "Title")
+
 ## This project showcases:
 
 * **Usage of OOP and OOD in high level in order to overcome coding dilemmas, encountered through the use of many legacy components in WinForms.**
